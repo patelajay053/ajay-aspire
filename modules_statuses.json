@@ -1,0 +1,5 @@
+{
+    "Customers": true,
+    "Loans": true,
+    "Admin": true
+}
